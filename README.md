@@ -1,2 +1,2 @@
 # newfile
-Script to create a file
+Simple Visual Basic Script to create a new txt file with a custom name
